@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.AssemblyInfo.cs
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.exe
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.deps.json
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.runtimeconfig.json
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.runtimeconfig.dev.json
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.dll
+C:\Users\dev\Desktop\CadastroProduto\bin\Debug\netcoreapp3.1\CadastroProduto.pdb
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.dll
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.pdb
+C:\Users\dev\Desktop\CadastroProduto\obj\Debug\netcoreapp3.1\CadastroProduto.genruntimeconfig.cache
