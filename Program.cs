@@ -39,16 +39,15 @@ namespace CadastroProduto
                                     produto[contador] = Console.ReadLine();
                                     Console.WriteLine($"Digite o preco dos produto");
                                     preco[contador] = float.Parse(Console.ReadLine());
-                                    Console.WriteLine($"Este produto esta em promocao? s/n");
+                                    Console.WriteLine($"Este produto esta em promocao? true/false");
                                     promocao[contador] = bool.Parse(Console.ReadLine());
-                                    
-
-
+                                  
                                     contador++;
 
                                 }else{
                                     Console.WriteLine("Limite excedido");
                                 }
+                                    Console.WriteLine("Voce gostaria de receber a promoçao?");
 
                                     Console.WriteLine("Voce gostaria de cadastrar novamente? s/n");
                                     resposta = Console.ReadLine();
@@ -60,9 +59,16 @@ namespace CadastroProduto
                         for (var i = 0; i <3; i++)
                         {
                             Console.WriteLine($"Produtos {produto[i]}");
+                            Console.WriteLine($"Promoção {preco[i]}");
+                            Console.WriteLine($"Promoção {promocao[i]}");
                         }
                         break;
                     case 0:
+                        Console.WriteLine("Menu Inicial");
+                        Console.WriteLine("Selecione uma opção");
+                        Console.WriteLine("[1] - Cadastrar produto");
+                        Console.WriteLine("[2] - Listar o Produto");
+                        Console.WriteLine("[0] - Mostrar o menu");
                     //Mostrar menu
                         break;
                     default:
